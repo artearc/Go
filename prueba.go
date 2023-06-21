@@ -36,6 +36,10 @@ func main() {
 	}
 }
 
+func MultiplyNumbers(n1 float64, n2 float64) float64 {
+	return n1 * n2
+}
+
 func SumarNumeros(n1 float64, n2 float64) float64 {
 	return n1 + n2
 }
